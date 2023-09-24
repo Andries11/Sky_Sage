@@ -1,5 +1,5 @@
 # Sky_Sage
-Please note to replace the IP adress in the following file with your own as I realised that this project only really works on physical devices and the IP enables connection with the back end. The defauls 10.2.2.2 IP only referes to the android ap's location and causes issues with the main functionality.
+Please note to replace the IP address in the following file with your own, as I realized that this project only really works on physical devices, and the IP enables a connection with the backend. The default 127.0.0.1 IP only refers to the Android app's location and causes issues with the main functionality.
 
 Weather_App_FE/app/src/main/java/com/weathertracking/sky_sage/client/LocationRetrieverClient.java
 
