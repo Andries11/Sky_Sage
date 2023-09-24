@@ -1,0 +1,15 @@
+buildscript {
+    repositories {
+        google()
+        jcenter() // Deprecated, but still used by some projects
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:8.0.0" // Use the desired Android Gradle Plugin version
+
+    }
+}
+
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

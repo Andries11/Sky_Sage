@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sky Sage</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="locations_label">Your Locations</string>
+    <string name="new_location_label">New Location</string>
+    <string name="search_locations_label">Search new Location</string>
+    <string name="places_near_you_label">Places near you</string>
+</resources>
